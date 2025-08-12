@@ -1,0 +1,61 @@
+# Top-Down Shooter Game
+
+A fast-paced, browser-based top-down shooter game built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This game demonstrates core front-end development skills including canvas rendering, real-time game logic, user input handling, and responsive design.
+
+## Features
+
+- Player controls a spaceship using keyboard (WASD or arrow keys).
+- Aim and shoot with mouse clicks.
+- Dynamic enemy spawning with increasing difficulty.
+- Collision detection between player, bullets, and enemies.
+- Score tracking and game-over state.
+- Responsive canvas that works on desktop and mobile browsers.
+- Lightweight sound effects using Web Audio API.
+
+## How to Run
+
+### Option 1: Open Locally
+
+1. Clone or download the repository.
+2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge).
+3. Use keyboard and mouse to play.
+
+### Option 2: Run with VS Code Live Server
+
+1. Open the project folder in Visual Studio Code.
+2. Install the **Live Server** extension if not already installed.
+3. Right-click `index.html` and select **Open with Live Server**.
+4. Your browser will open the game at `http://localhost:5500` or similar.
+
+## Controls
+
+- **W / Arrow Up:** Move up  
+- **A / Arrow Left:** Move left  
+- **S / Arrow Down:** Move down  
+- **D / Arrow Right:** Move right  
+- **Mouse Click:** Shoot  
+- **P:** Pause/Resume game  
+- **R:** Restart game
+
+## Technologies Used
+
+- HTML5 Canvas API  
+- CSS3 for styling  
+- JavaScript (ES6+) for game logic  
+- Web Audio API for sound effects
+
+## Project Purpose
+
+This project showcases my ability to build an interactive browser game from scratch using core web technologies. It highlights skills in animation, user input handling, collision detection, and real-time game updates.
+
+## Live Demo
+
+*(Add your GitHub Pages or Netlify link here once deployed)*
+
+## License
+
+This project is open-source and available under the MIT License.
+
+---
+
+Feel free to customize or ask if you want me to add anything else like screenshots or installation instructions!
